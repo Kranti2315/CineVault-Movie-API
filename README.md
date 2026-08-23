@@ -23,21 +23,6 @@ Technologies Used:
 *VS Code
 *Git & GitHub
 
-Project Structure:
-Backend/
-│
-├── Logs/
-│   └── app.log
-│
-├── app.py
-├── database.py
-├── logger.py
-├── Movie_Manager.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-app.log is a generated log file. For a public GitHub repository, it is recommended not to commit continuously generated log files.
-
 Setup
 1. Clone the repository
 git clone YOUR_GITHUB_REPOSITORY_URL
